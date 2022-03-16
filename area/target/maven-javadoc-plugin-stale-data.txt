@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'/home/daw/Escritorio/ejercicioETS/area/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'area 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/daw/Escritorio/ejercicioETS/area/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'area 1.0.0 API'
+es.iespuerto.area
+/home/daw/Escritorio/ejercicioETS/area/src/main/java = 1647442908379
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/package-search-index.js = 1647443670367
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/allpackages-index.html = 1647443670383
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/deprecated-list.html = 1647443670387
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/index-all.html = 1647443670379
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/type-search-index.js = 1647443670375
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/search.js = 1647443670399
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/member-search-index.zip = 1647443670375
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/member-search-index.js = 1647443670375
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/package-search-index.zip = 1647443670375
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/index.html = 1647443670391
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/stylesheet.css = 1647443670395
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/element-list = 1647443670327
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/constant-values.html = 1647443670343
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/type-search-index.zip = 1647443670375
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/overview-tree.html = 1647443670363
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/script.js = 1647443670395
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/allclasses-index.html = 1647443670383
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/help-doc.html = 1647443670395
+/home/daw/Escritorio/ejercicioETS/area/target/site/apidocs/allclasses.html = 1647443670391
